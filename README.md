@@ -1,4 +1,4 @@
-# F&B Ops Dashboard
+# Yuk Grill Yuk
 
 Aplikasi ini dibuat untuk usaha kalian.
 
