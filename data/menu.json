@@ -1,0 +1,37 @@
+[
+  {
+    "id": "durang",
+    "name": "Paket Durang",
+    "serves": "2-3 orang",
+    "price": 119000,
+    "description": "Beef slice - 250 gr\nChicken - 250 gr\nJamur Enoki - 1 bks\nSambal cocol YGY's signature - 85 ml\nSaus sambal dan barbeque - 85 ml\nMentega\nSelada\nBawang bombay\n1 set alat grill (grill pan, capitan, kompor, gas, sumpit)"
+  },
+  {
+    "id": "parang",
+    "name": "Paket Parang",
+    "serves": "4-5 orang",
+    "price": 219000,
+    "description": "Beef slice - 500 gr\nChicken - 500 gr\nJamur Enoki - 2 bks\nSambal cocol YGY's signature - 170 ml\nSaus barbeque - 170 ml\nSaus sambal - 85 ml\nMentega\nSelada\nBawang bombay\n1 set alat grill (grill pan, capitan, kompor, gas, sumpit)"
+  },
+  {
+    "id": "jurang",
+    "name": "Paket Jurang",
+    "serves": "7-8 orang",
+    "price": 299000,
+    "description": "Beef slice - 750 gr\nChicken - 500 gr\nJamur Enoki - 1 bks\nSambal cocol YGY's signature - 250 ml\nSaus barbeque - 250 ml\nSaus sambal - 170 ml\nMentega\nSelada\nBawang bombay\n1 set alat grill (grill pan, capitan, kompor, gas, sumpit)"
+  },
+  {
+    "id": "serang",
+    "name": "Paket Serang",
+    "serves": "9-10 orang",
+    "price": 399000,
+    "description": "Beef slice - 1000 gr\nChicken - 750 gr\nUdang - 500 gr\nSosis - 250 gr\nJamur Enoki - 3 bks\nSambal cocol YGY's signature - 250 ml\nSaus barbeque - 420 ml\nSaus sambal - 250 ml\nMentega\nSelada\nBawang bombay\n1 set alat grill (grill pan, capitan, kompor, gas, sumpit)"
+  },
+  {
+    "id": "balala",
+    "name": "Paket Balala",
+    "serves": "11-12 orang",
+    "price": 539000,
+    "description": "Beef slice - 1250 gr\nChicken - 1000 gr\nUdang - 500 gr\nSosis - 335 gr\nJamur Enoki - 4 bks\nSambal cocol YGY's signature - 250 ml\nSaus barbeque - 500 ml\nSaus sambal - 250 ml\nMentega\nSelada\nBawang bombay\n1 set alat grill (grill pan, capitan, kompor, gas, sumpit)"
+  }
+]
