@@ -18,7 +18,7 @@ async function readMenu(): Promise<MenuItem[]> {
   try {
     const raw = await fs.readFile(dataPath, "utf8");
     return JSON.parse(raw) as MenuItem[];
-  } catch (error) {
+  } catch {
     return [];
   }
 }

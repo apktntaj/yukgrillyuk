@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import { Space_Grotesk } from "next/font/google";
 import "./globals.css";
-import Sidebar from "@/components/Sidebar";
 
 const spaceGrotesk = Space_Grotesk({
   subsets: ["latin"],
@@ -9,7 +8,7 @@ const spaceGrotesk = Space_Grotesk({
 });
 
 export const metadata: Metadata = {
-  title: "Yuk Grill Yuk",
+  title: "F&B Ops Dashboard",
   description: "Internal dashboard for orders, menu, inventory, and CRM"
 };
 
@@ -20,12 +19,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={spaceGrotesk.className}>
-        <main>
-          <Sidebar />
-          <section className="content">{children}</section>
-        </main>
-      </body>
+      <body className={spaceGrotesk.className}>{children}</body>
     </html>
   );
 }

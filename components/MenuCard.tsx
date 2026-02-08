@@ -1,7 +1,7 @@
 "use client";
 
 import { useRef } from "react";
-import type { MenuItem } from "@/app/menu/actions";
+import type { MenuItem } from "@/app/admin/menu/actions";
 
 const currency = new Intl.NumberFormat("id-ID", {
   style: "currency",

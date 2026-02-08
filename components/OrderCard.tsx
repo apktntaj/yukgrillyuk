@@ -1,7 +1,7 @@
 "use client";
 
 import { useRef } from "react";
-import type { OrderItem } from "@/app/orders/actions";
+import type { OrderItem } from "@/app/admin/orders/actions";
 
 const currency = new Intl.NumberFormat("id-ID", {
   style: "currency",

@@ -1,4 +1,4 @@
-import { addMenuItem, deleteMenuItem, getMenuItems, updateMenuItem } from "./actions";
+import { addMenuItem, deleteMenuItem, getMenuItems, updateMenuItem } from "@/app/admin/menu/actions";
 import MenuAddModal from "@/components/MenuAddModal";
 import MenuCard from "@/components/MenuCard";
 
